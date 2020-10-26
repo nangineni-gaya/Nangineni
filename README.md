@@ -3,6 +3,11 @@
 1.Vallamreddy preethi - 18pa1a1247<br/>
 2.Nangineni Gayathri - 18pa1a1233<br/>
 
+## Languages used for chatbot:
+1.html<br>
+2.css<br>
+3.javascript<br>
+
 ## Youtube link for the demo video of the chatbot
 https://youtu.be/OyVwaCCrYwU
 
